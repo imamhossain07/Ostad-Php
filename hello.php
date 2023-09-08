@@ -11,3 +11,5 @@ $sum=$a+$b+$c+$d+$e+$f+$g;
 
 echo $sum;
 
+
+echo 'we Love Php';
